@@ -1,0 +1,10 @@
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\bin\Debug\CMEQAAutomation.dll.config
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\bin\Debug\CMEQAAutomation.dll
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\bin\Debug\CMEQAAutomation.pdb
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\bin\Debug\WebDriver.dll
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\bin\Debug\WebDriver.xml
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\obj\Debug\CMEQAAutomation.dll
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\obj\Debug\CMEQAAutomation.pdb
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\bin\Debug\WebDriver.Support.dll
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\bin\Debug\WebDriver.Support.xml
+C:\CMEQAAutomation\CMEQAAutomation\CMEQAAutomation\obj\Debug\CMEQAAutomation.csprojResolveAssemblyReference.cache
